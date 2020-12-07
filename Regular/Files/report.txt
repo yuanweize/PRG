@@ -1,0 +1,5 @@
+Capek, Karel: 1
+Clarke, Arthur C.: 2
+Asimov, Isaac: 3
+Herbert, Frank: 2
+TOTAL BOOKS: 8
