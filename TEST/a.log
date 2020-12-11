@@ -1,0 +1,8 @@
+2020/12/01 13:16:04 tcp:113.245.76.49:8588 accepted tcp:mtalk.google.com:5228 email:76b001bd-0053-45ad-9132-5fe60ce213b5@v2board.user 
+2020/12/01 13:16:07 tcp:120.227.192.94:3297 accepted tcp:google.com:443 email:c0c90f6c-908b-4d2e-a01b-3008db0a23e3@v2board.user 
+2020/12/01 13:16:08 180.164.233.26:53598 accepted udp:54.172.47.69:3478 email:0de19c7e-7d1a-45a1-8172-42f0307b451d@v2board.user 
+2020/12/01 13:16:11 180.164.233.26:53615 accepted udp:54.172.47.69:3478 email:0de19c7e-7d1a-45a1-8172-42f0307b451d@v2board.user 
+2020/12/01 13:16:14 113.245.127.197:13736 accepted tcp:ss-prod-ue1-notif-60.aws.adobess.com:443 email:f76335d3-a4e9-4d5f-992c-5104a8ff11dd@v2board.user 
+2020/12/01 13:16:20 tcp:120.227.192.94:3297 accepted tcp:mtalk.google.com:5228 email:c0c90f6c-908b-4d2e-a01b-3008db0a23e3@v2board.user 
+2020/12/01 13:16:22 180.164.233.26:53622 accepted udp:54.172.47.69:3478 email:0de19c7e-7d1a-45a1-8172-42f0307b451d@v2board.user
+2020/12/01 13:16:27 113.245.127.197:13737 accepted tcp:www.google.com:443 email:f76335d3-a4e9-4d5f-992c-5104a8ff11dd@v2board.user 
